@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "employeeId": "EMP001",
+      "name": " Sharma",
+      "designation": "Flutter Developer",
+      "department": "Mobile Engineering",
+      "email": "divya@company.com"
+    },
+    {
+      "employeeId": "EMP002",
+      "name": "Abhishek",
+      "designation": "QA Engineer",
+      "department": "Quality Assurance",
+      "email": "abhishek.reddy@company.com"
+    },
+    {
+      "employeeId": "EMP003",
+      "name": "Navya",
+      "designation": "UI/UX Designer",
+      "department": "Design",
+      "email": "navya@company.com"
+    },
+    {
+      "employeeId": "EMP004",
+      "name": "Rahul",
+      "designation": "Backend Developer",
+      "department": "Platform Engineering",
+      "email": "rahul@company.com"
+    },
+    {
+      "employeeId": "EMP005",
+      "name": "Shalini",
+      "designation": "Project Manager",
+      "department": "Project Management",
+      "email": "shalini.@company.com"
+    }
+  ]
+}
